@@ -1,0 +1,10 @@
+C:\Users\SERTKAYA\Desktop\KriptoCore\KriptoCore\bin\Debug\KriptoCore.exe.config
+C:\Users\SERTKAYA\Desktop\KriptoCore\KriptoCore\bin\Debug\KriptoCore.exe
+C:\Users\SERTKAYA\Desktop\KriptoCore\KriptoCore\bin\Debug\KriptoCore.pdb
+C:\Users\SERTKAYA\Desktop\KriptoCore\KriptoCore\obj\Debug\KriptoCore.csprojResolveAssemblyReference.cache
+C:\Users\SERTKAYA\Desktop\KriptoCore\KriptoCore\obj\Debug\KriptoCore.Form1.resources
+C:\Users\SERTKAYA\Desktop\KriptoCore\KriptoCore\obj\Debug\KriptoCore.Properties.Resources.resources
+C:\Users\SERTKAYA\Desktop\KriptoCore\KriptoCore\obj\Debug\KriptoCore.csproj.GenerateResource.Cache
+C:\Users\SERTKAYA\Desktop\KriptoCore\KriptoCore\obj\Debug\KriptoCore.csproj.CoreCompileInputs.cache
+C:\Users\SERTKAYA\Desktop\KriptoCore\KriptoCore\obj\Debug\KriptoCore.exe
+C:\Users\SERTKAYA\Desktop\KriptoCore\KriptoCore\obj\Debug\KriptoCore.pdb
